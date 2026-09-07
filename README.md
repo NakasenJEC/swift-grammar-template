@@ -31,14 +31,13 @@
 | week01 | 型と制御構文の再確認、配列・辞書・範囲 | 01 | [week01/NOTE.md](week01/NOTE.md) ／ [week01/main.swift](week01/main.swift) | 未着手 |
 | week02 | Optional | 02 | [week02/NOTE.md](week02/NOTE.md) ／ [week02/main.swift](week02/main.swift) | 未着手 |
 | week03 | 関数とタプル | 03 | [week03/NOTE.md](week03/NOTE.md) ／ [week03/main.swift](week03/main.swift) | 未着手 |
-| week04 | 構造体とプロパティ | 04 | [week04/NOTE.md](week04/NOTE.md) ／ [week04/main.swift](week04/main.swift) | 未着手 |
+| week04 | 構造体とクラス、値型と参照型 | 04 | [week04/NOTE.md](week04/NOTE.md) ／ [week04/main.swift](week04/main.swift) | 未着手 |
 | week05 | 列挙型と switch | 05 | [week05/NOTE.md](week05/NOTE.md) ／ [week05/main.swift](week05/main.swift) | 未着手 |
-| week06 | クラス、継承、値型と参照型 | 06 | [week06/NOTE.md](week06/NOTE.md) ／ [week06/main.swift](week06/main.swift) | 未着手 |
-| week07 | クロージャと高階関数 | 07 | [week07/NOTE.md](week07/NOTE.md) ／ [week07/main.swift](week07/main.swift) | 未着手 |
-| week08 | プロトコルと extension | 08 | [week08/NOTE.md](week08/NOTE.md) ／ [week08/main.swift](week08/main.swift) | 未着手 |
-| week09 | エラー処理とジェネリクス入門 | 09 | [week09/NOTE.md](week09/NOTE.md) ／ [week09/main.swift](week09/main.swift) | 未着手 |
-| week10 | 総合演習（買い物メモアプリを読む・直す・広げる） | 10 | [week10/NOTE.md](week10/NOTE.md) ／ [week10/main.swift](week10/main.swift) | 未着手 |
-| week11 | 総復習、模擬試験、持ち帰り版 | 全章 | [week11/NOTE.md](week11/NOTE.md) | 未着手 |
+| week06 | クロージャと高階関数 | 06 | [week06/NOTE.md](week06/NOTE.md) ／ [week06/main.swift](week06/main.swift) | 未着手 |
+| week07 | プロトコルと extension | 07 | [week07/NOTE.md](week07/NOTE.md) ／ [week07/main.swift](week07/main.swift) | 未着手 |
+| week08 | エラー処理とジェネリクス入門 | 08 | [week08/NOTE.md](week08/NOTE.md) ／ [week08/main.swift](week08/main.swift) | 未着手 |
+| week09 | 総合演習（買い物メモアプリを読む・直す・広げる） | 09 | [week09/NOTE.md](week09/NOTE.md) ／ [week09/main.swift](week09/main.swift) | 未着手 |
+| week10 | 総復習、模擬試験、持ち帰り版 | 全章 | [week10/NOTE.md](week10/NOTE.md) | 未着手 |
 
 > 💡 その週の課題を終えたら「状態」を「✅ 完了」に更新してください。
 > 💡 リファレンスの列の番号は、教材コードリポジトリ `swift-grammar-code` の `reference/` にある章の番号です。
