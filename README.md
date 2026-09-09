@@ -60,7 +60,7 @@
 
 | 提出物 | 何をもって提出とするか |
 |------|------|
-| weekNN/main.swift | 教材コードの演習部のチェックがすべて OK になったものを Upload files で上書きしてコミット |
+| weekNN/main.swift | 教材コードの「演習」と書かれている部分のチェックがすべて OK になったものを Upload files で上書きしてコミット |
 | weekNN/NOTE.md | 4点セット（プロンプト／変えた点／自分の言葉の説明／壊す実験）と AI質問ログが埋まっている |
 | festival/README.md | アプリ名、できること、生成AIの使い方が書いてある |
 | festival/READING.md | 自分のアプリのコード3箇所を説明している |
